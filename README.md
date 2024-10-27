@@ -16,12 +16,13 @@ Salut à tous ! J'ai 20 ans et je fais du développement Front-End depuis un an 
 - et pour finir le foot ( Aller l'om ;) )
 
 
-<img src="bluelock.gif" width="1000" height="400">
 
+<img src="mogif.gif" width="500">
 
+----
 
 # Mes  compétences 
 
-HTML  | CSS | Javascript |
+HTML| CSS | Javascript |
 ------- | -------- | --------
 Intérmédiaire|Intérmédiaire|Débutant 
