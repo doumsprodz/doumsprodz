@@ -5,7 +5,7 @@
 Salut à tous ! J'ai 20 ans et je fais du développement Front-End depuis un an et demi déjà.
 # Mes passions
 
-- L'informatique
+- L'informatique en général
 - Les animé ( Quelques un, me voyez pas comme un mec kawainé)
 - Les jeux vidéos
 - Le sim racing
@@ -24,5 +24,7 @@ Salut à tous ! J'ai 20 ans et je fais du développement Front-End depuis un an 
 HTML| CSS | Javascript |
 ------- | -------- | --------
 Intérmédiaire|Intérmédiaire|Débutant 
+
+- Actuellement en formation Développement Web.
 
 
