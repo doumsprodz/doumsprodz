@@ -1,4 +1,5 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F7E6&width=435&lines=Hello%2C+I'm+d0um3h" alt="Typing SVG" />
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F7E6&width=240&lines=Hello%2C+I'm+d0um3h" alt="Typing SVG" /></h1>
+
 
 
 # Bio 
@@ -26,6 +27,6 @@ Salut à tous ! J'ai 20 ans et je fais du développement Front-End depuis un an 
 ------- | -------- | -------- | --------
 Intérmédiaire|Intérmédiaire|Débutant|Comming Soon
 
-- Actuellement en formation Développement Web.
+- Actuellement en formation Développement Web depuis septembre 2024.
 
 
