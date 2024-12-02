@@ -15,10 +15,6 @@ Salut à tous ! J'ai 20 ans et je fais du développement Front-End depuis un an 
 - Montage photo (GFX)
 - et pour finir le foot ( Aller l'om ;) )
 
-
-
-<img src="https://media1.tenor.com/m/yIZbhasDNm0AAAAC/blue-lock-isagi.gif" width="500">
-
 ----
 
 # Mes  compétences 
